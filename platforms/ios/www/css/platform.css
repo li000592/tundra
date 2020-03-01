@@ -1,0 +1,26 @@
+
+.gender-liked {
+    margin-top: 1px;
+
+}
+.img-home{
+    /* padding:15px; */
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.info-second{
+    font-size: 18px;
+}
+h1{
+    font-size: 36px;
+}
+#gender{
+    width: 25px;
+    padding-top: 12px;
+}
+.trans-like{
+    height: 88%;
+}
+.trans-nope{
+    height: 88%;
+}

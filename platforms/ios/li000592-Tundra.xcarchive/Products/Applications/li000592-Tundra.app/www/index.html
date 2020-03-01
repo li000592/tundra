@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"> 
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" type="text/css" href="css/platform.css">
+
+        <!-- <link rel="stylesheet" href="./dist/css/tinyshell.css"> -->
+        <title>Tundra</title>
+    </head>
+    <body>
+        <section id="home" class="page active">
+            <div class="header">
+                <img id="header-logo" src="./img/header-logo.svg" alt="logo">
+            </div>
+            <main>
+                <div class="gender-btn">
+                    <button id="gender-men">Men</button>
+                    <button id="gender-women">Women</button>
+                </div>
+                <div id="card-home">
+                    <!-- <img class="img-home" src="./img/IMG_3806.jpeg" alt="cardImg-home">
+                    <div class="info-first">
+                        <h1 id="name">Ben Simmons</h1>
+                        <div id="gender">
+                            <img class="male" src="./img/male-icon.svg" alt="">
+                            <img class="female none" src="./img/female-icon.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="info-second">
+                        <p>Gender: <span class="gender">Female</span></p>
+                        <p>Distance: <span>380</span> kilometers away </p>ç
+                    </div> -->
+                </div>
+            </main>
+            <div class="nav">
+                <div  class="nav-btn home-btn" data-target="home">
+                    <img class="icons" src="./img/home-icon-on.svg" alt="home-icon">
+                    <p>Home</p>
+                </div>
+                <div class="nav-btn liked-btn" data-target="liked">
+                    <img class="icons" src="./img/liked-icon.svg" alt="liked-icon">
+                    <p>Liked</p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="liked" class="page">
+            <div class="header">
+                <h3 id="title-liked"><span id="likeNum"></span>Likes</h3>
+            </div>
+            <main>
+                <div id="cardList" class="card-list">
+                    <!-- <div class="card-liked">
+                        <img class="img-liked" src="./img/IMG_3806.jpeg" alt="">
+                        <div class="info-liked">
+                            <div class="card-top">
+                                <h3 class="card-name">Ben Simmons</h3>
+                                <img class="gender-liked" src="./img/male-icon.svg" alt="">
+                            </div>
+                            <p class="card-bottom">Distance: 22 km away</p>
+                        </div> 
+                        <img class="delete" src="./img/delete-btn.svg" alt="">
+                    </div> -->
+                </div>
+
+            </main>
+            <div class="nav">
+                <div  class="nav-btn home-btn" data-target="home">
+                    <img class="icons" src="./img/home-icon.svg" alt="home-icon">
+                    <p>Home</p>
+                </div>
+                <div class="nav-btn liked-btn" data-target="liked">
+                    <img class="icons" src="./img/liked-icon-on.svg" alt="liked-icon">
+                    <p>Liked</p>
+                </div>
+            </div>
+        </section>
+        <div class="trans-like">
+            <h1>LIKE!</h1>
+        </div>
+        <div class="trans-nope">
+            <h1>NOPE!</h1>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="js/platform.js"></script>
+        <!-- <script type="text/javascript" src="./dist/js/tinyshell-min.js"></script> -->
+    </body>
+</html>

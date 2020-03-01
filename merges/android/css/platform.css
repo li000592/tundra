@@ -1,0 +1,19 @@
+main {
+    margin-top: 72px;
+}
+#header-logo {
+    padding-top: 0;
+}
+.gender-btn{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+#card-home div {
+    padding-top: 0px;
+}
+body {
+    font-size: 14px;
+}
+.header{
+    line-height: 10px;
+}
