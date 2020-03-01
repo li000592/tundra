@@ -110,6 +110,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items:center;
+    padding-bottom: 80px;
 }
 #gender{
     margin-left: 5px;
@@ -213,8 +214,8 @@ main {
     margin-left: 10px;
 }
 .card-list{
-   
-    height: 70%;
+    padding-bottom: 100px;
+    height: 100%;
     display: flex;
     flex-direction: column;
     /* margin-top: 65px; */
@@ -237,6 +238,7 @@ main {
     align-items: center;
     justify-items: center;
     align-items: center;
+    border-radius: 10px;
     border-bottom: hsla(0, 0%, 0%, 0.233) 1px solid;
     box-shadow: 0 1px 4px hsla(0, 0%, 0%, 0.233);
     transition: all  0.4s linear 0s;

@@ -102,15 +102,15 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		o+jJKnSFDYZiUn7WxfS6x4O3a+s=
+		8Rqs28KbBAgGehBeTtIBfJSWWlI=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		1ery0UN4VRgh3bw6U4zec43PBdk=
+		1842pG/CmZ4ReF2MsmhqKi9h4qM=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		98fcsdqzmuKWJ/Xcyvj1TTl7QEY=
+		0mi9c69SQNEX6EF7QP54IkeEKag=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		vjZVLjOubIYVt6R90japTl1tW0c=
+		uhH61bucC4vsVavzNii1YQBR5bA=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		kK7clfwFmxbz9T97sEfnIrLW7NU=
+		5cfFXLvVv04fvXgXKa1rWFo12f8=
 		</data>
 		<key>CDVNotification.bundle/beep.wav</key>
 		<data>
@@ -206,11 +206,11 @@
 		</data>
 		<key>MainViewController.nib/objects-13.0+.nib</key>
 		<data>
-		e/aw9ts/Vp7YysZUqezqCheBVLY=
+		C+scQ8eszz0+E3vOXTyt5ZWCBXk=
 		</data>
 		<key>MainViewController.nib/runtime.nib</key>
 		<data>
-		It+c/d7MTzWjh3xolCBNXES8Dpc=
+		BhJ+uQHK68LMwtLMEafUnMFUnyk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -250,31 +250,11 @@
 		</data>
 		<key>www/css/index.css</key>
 		<data>
-		zoWqReqXikgcDe+bWtosUWuAgvo=
+		WO5WBSLOgi2YnOO1SPyi0WByEmQ=
 		</data>
 		<key>www/css/platform.css</key>
 		<data>
-		NNBTIwqxaMX9CrBPgKmaEm8FP7o=
-		</data>
-		<key>www/dist/css/tinyshell.css</key>
-		<data>
-		7ZN/wNLmykd7MpKK8y3wo/Htxiw=
-		</data>
-		<key>www/dist/fonts/MaterialIcons-Regular.ttf</key>
-		<data>
-		/AXeMSNOAJD33cKM4bI69AJssdo=
-		</data>
-		<key>www/dist/fonts/MaterialIcons-Regular.woff</key>
-		<data>
-		xslTwsyyypq7IduNv0c7WkNfAII=
-		</data>
-		<key>www/dist/fonts/MaterialIcons-Regular.woff2</key>
-		<data>
-		CZY1kujJU8x+FOP7ClsF1QQuhDU=
-		</data>
-		<key>www/dist/js/tinyshell-min.js</key>
-		<data>
-		n2XwuQudrz0lJmeZY94j4OXi1SA=
+		ZSZUPLsTAbJWiJVHRcqF4gCTxP4=
 		</data>
 		<key>www/img/IMG_3806.jpeg</key>
 		<data>
@@ -308,10 +288,6 @@
 		<data>
 		hWZWF1Oj91fdyqniCc2KE/EPuxE=
 		</data>
-		<key>www/img/logo.png</key>
-		<data>
-		MW0GF0+VJyF3L6n2kH6NKUswUL0=
-		</data>
 		<key>www/img/male-icon.svg</key>
 		<data>
 		qP7ohcpfjUoIP51RjVbJ9Sgm+oY=
@@ -322,7 +298,7 @@
 		</data>
 		<key>www/js/index.js</key>
 		<data>
-		qLuyT54GBWCITiiHjmUmr5Qmv48=
+		96sWMg5J4AJ3jQAw+v3SitVPNI0=
 		</data>
 		<key>www/js/platform.js</key>
 		<data>
@@ -699,33 +675,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o+jJKnSFDYZiUn7WxfS6x4O3a+s=
+			8Rqs28KbBAgGehBeTtIBfJSWWlI=
 			</data>
 			<key>hash2</key>
 			<data>
-			17uWF/mqyZb2TQrhFWKNay1mm8DVDHGYS3hHZzXf70Y=
+			YXT2VevDwEatrKDL1ZOMw5hTmqk5EaNuLj2sjBM6Mwg=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1ery0UN4VRgh3bw6U4zec43PBdk=
+			1842pG/CmZ4ReF2MsmhqKi9h4qM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0PjY69+oMEPAW0MzwwfW6mTPppuC1Z5CvWMjSidU8j4=
+			iP9CfuHAs8zkrjXMK+JczBP0hTq0VzEXFW3WBO0/qBM=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			98fcsdqzmuKWJ/Xcyvj1TTl7QEY=
+			0mi9c69SQNEX6EF7QP54IkeEKag=
 			</data>
 			<key>hash2</key>
 			<data>
-			zrI5d7uWBMUJ054/nKHl8ep46MuDlUO19pB4oVNSJic=
+			MV1ckQzRxDpC1/PPVB3MER5hy+GC+D4pKZsGsjmTOTU=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -743,22 +719,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vjZVLjOubIYVt6R90japTl1tW0c=
+			uhH61bucC4vsVavzNii1YQBR5bA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pPW3sLVClcuK5/94Lvj82znGHsP2Kzz0B7AMK+cCAS0=
+			06U70c7yHP0Ph02XQ61W63DScGPWFLisfG9++HA+DS8=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kK7clfwFmxbz9T97sEfnIrLW7NU=
+			5cfFXLvVv04fvXgXKa1rWFo12f8=
 			</data>
 			<key>hash2</key>
 			<data>
-			KKVWvpbTKImUK18PTwqr2HgdGE5TaJ/IA3YAzFewjBY=
+			PuLBe0cyWj8ekSO409SaUjxw0vtaIrvGTUi+7cqmMlY=
 			</data>
 		</dict>
 		<key>CDVNotification.bundle/beep.wav</key>
@@ -974,22 +950,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e/aw9ts/Vp7YysZUqezqCheBVLY=
+			C+scQ8eszz0+E3vOXTyt5ZWCBXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ng+jGeKm6U28K8o4hsiaGBCwZpUJLcIsFhE7DoIhZI=
+			UskFKLFbMxDf5mHMYp6uyT6htUCMkcefIp+FbckXQmM=
 			</data>
 		</dict>
 		<key>MainViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			It+c/d7MTzWjh3xolCBNXES8Dpc=
+			BhJ+uQHK68LMwtLMEafUnMFUnyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FobDKPYprXZFsyCdiE5Gsv39udbi78Wkh6zN+z63kJA=
+			UR2WQsmVJddDu24WmLOGEIUhcpKN7QP82hKaU3vMGQA=
 			</data>
 		</dict>
 		<key>config.xml</key>
@@ -1084,77 +1060,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zoWqReqXikgcDe+bWtosUWuAgvo=
+			WO5WBSLOgi2YnOO1SPyi0WByEmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			rCJzLacrZYbtpIFNALOI8kygwmfY/q57MHqUSngW8RA=
+			hnatInLsfXF+Ipte0P6AeY8aT3455k2fG5DTZmF9y9U=
 			</data>
 		</dict>
 		<key>www/css/platform.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NNBTIwqxaMX9CrBPgKmaEm8FP7o=
+			ZSZUPLsTAbJWiJVHRcqF4gCTxP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			PcvX24T8DiM492g6VOJdWgAhMlDrKZQzmitdh9yaPck=
-			</data>
-		</dict>
-		<key>www/dist/css/tinyshell.css</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7ZN/wNLmykd7MpKK8y3wo/Htxiw=
-			</data>
-			<key>hash2</key>
-			<data>
-			Yd5+Xhc8/xWHNubsNhoteaJzVNCmzq9kv0khU1r6RsI=
-			</data>
-		</dict>
-		<key>www/dist/fonts/MaterialIcons-Regular.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/AXeMSNOAJD33cKM4bI69AJssdo=
-			</data>
-			<key>hash2</key>
-			<data>
-			t/Sjq1YgSPKN0fppFgG8QzY6YdD4dtFtgxbFLk8y1pY=
-			</data>
-		</dict>
-		<key>www/dist/fonts/MaterialIcons-Regular.woff</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xslTwsyyypq7IduNv0c7WkNfAII=
-			</data>
-			<key>hash2</key>
-			<data>
-			xKG67DANCeA6g4C4WRgmfugPqujgDGxWtI4udLHZs40=
-			</data>
-		</dict>
-		<key>www/dist/fonts/MaterialIcons-Regular.woff2</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CZY1kujJU8x+FOP7ClsF1QQuhDU=
-			</data>
-			<key>hash2</key>
-			<data>
-			qH1myRsufcVTCu92wDvWo9JepYJhEL9IA7VhuBHMhyY=
-			</data>
-		</dict>
-		<key>www/dist/js/tinyshell-min.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			n2XwuQudrz0lJmeZY94j4OXi1SA=
-			</data>
-			<key>hash2</key>
-			<data>
-			+pH3d6zhinlqIn+ZIgJxsgcZhkLQVMCaQTB1/5hrBxM=
+			uAA4omWiSd7UKEgYfa5w0xuldzdKARo6Jpg+n9WI3Ps=
 			</data>
 		</dict>
 		<key>www/img/IMG_3806.jpeg</key>
@@ -1245,17 +1166,6 @@
 			VkldLn/fKnUYO7EfXlPI1sh/8TpkS1mTgmFieZJ9EUw=
 			</data>
 		</dict>
-		<key>www/img/logo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MW0GF0+VJyF3L6n2kH6NKUswUL0=
-			</data>
-			<key>hash2</key>
-			<data>
-			8JmHrhEr2x//0WYZDQyLdQyvokuPf/rAP06Yuah4neM=
-			</data>
-		</dict>
 		<key>www/img/male-icon.svg</key>
 		<dict>
 			<key>hash</key>
@@ -1282,11 +1192,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qLuyT54GBWCITiiHjmUmr5Qmv48=
+			96sWMg5J4AJ3jQAw+v3SitVPNI0=
 			</data>
 			<key>hash2</key>
 			<data>
-			irkBxeHhqnofG8RO8dilVDq+ERbCppFp0vCQfN2xlys=
+			+XuhNqDnMbkfcZFgnCpTBKbYEsIiHPYC476uYp4LokI=
 			</data>
 		</dict>
 		<key>www/js/platform.js</key>

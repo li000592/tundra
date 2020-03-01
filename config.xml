@@ -20,8 +20,8 @@
         <!-- <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
             <application android:usesCleartextTraffic="true" />
         </edit-config> -->
-        <allow-navigation href="*" />
-        <allow-intent href="market:*" />
+        <!-- <allow-navigation href="*" />
+        <allow-intent href="market:*" /> -->
         <icon src="/res/icons/android/Icons-mdpi.png" density="mdpi" />
         <icon src="/res/icons/android/Icons-hdpi.png" density="hdpi" />
         <icon src="/res/icons/android/Icons-xhdpi.png" density="xhdpi" />

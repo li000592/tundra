@@ -64,18 +64,6 @@ const app = {
         })
     },
     createACard: ()=>{
-        // if(app.gender){
-        //     app.currentData = app.currentData.filter(card => {
-        //         if(card.gender == app.gender){
-        //             console.log(card);
-        //             console.log(app.currentData)
-        //             return card;
-
-        //         }
-        //         app.fetchData();
-        //     });
-        // }
-
         app.currentCard = app.currentData[0];
         let card = document.querySelector("#card-home");
         card.textContent = "";
@@ -181,7 +169,7 @@ const app = {
             app.likedArray = JSON.parse(str);
         }
         let cardList = document.querySelector(".card-list");
-        cardList.textContent = "";
+        cardList.textContent= "";
         console.log(app.likedArray)
         document.getElementById("likeNum").textContent = app.likedArray.length++ + " ";
         
@@ -243,7 +231,6 @@ const app = {
         navigator.notification.confirm("Are you sure to delete this card?",
         (responseIndex)=>{
           if(responseIndex == 1){
-
             console.log(target)
             console.log(app.likedArray)
             const index = app.likedArray.findIndex(card => card.id === target);
@@ -266,29 +253,26 @@ const app = {
         }, 400);               
             // document.querySelector(".trans-like").classList.add("active");
             console.log("Here is like Array", app.likedArray);
-            if(app.likedArray == null){
-
-            }else{
+        if(app.currentCard == null){
+            console.log("some reasons make card push empty!")
+        }else{
+            console.log(app.currentCard)
             app.likedArray.push(app.currentCard);
             app.likedArray = app.likedArray.filter(card => card !== null);
-            // sessionStorage.setItem(app.KEY, JSON.stringify(app.likedArray));
+            sessionStorage.setItem(app.KEY, JSON.stringify(app.likedArray));
             app.currentData.shift();
             app.fetchData();
             setTimeout(() => {
                 app.createACard();
             }, 500);
- 
             setTimeout(() => {
                 document.querySelector(".trans-like").classList.remove("active");
             }, 1500);
-            
-            // app.swip();
             console.log(sessionStorage.getItem(app.KEY))
             console.log(app.currentData);
         }
     },
     nope: ()=>{
-        // app.swip();
         setTimeout(() => {
             document.querySelector(".trans-nope").classList.add("active"); 
         }, 400);  
@@ -300,8 +284,6 @@ const app = {
         setTimeout(() => {
             document.querySelector(".trans-nope").classList.remove("active");
         }, 1500);
-
-        
     },
     swiped:()=>{
         let target = document.getElementById("img-home")
@@ -311,11 +293,13 @@ const app = {
         function doSomething(ev) {
         //ev.currentTarget will be the HTML element that triggered this
         //put your code here to do something with or to the HTML element
-        console.log("left")
-        
+        console.log("left") 
         }
     },
     nav: ev => {
+        let cardList = document.querySelector(".card-list");
+        cardList.textContent = "";
+        window.scrollTo(0,0);
         console.log("NAV")
         let btn = ev.currentTarget;
         console.log("ev target", ev.currentTarget);
@@ -341,14 +325,14 @@ const app = {
         setTimeout(() => {
             app.touch.xstart = null;
             console.log("you swip too long!")
-        }, 1000);
+        }, 700);
     },
     move:ev=>{
         app.touch.xend = ev.touches[0].clientX;
         setTimeout(() => {
             app.touch.xend = null;
             console.log("you swip too long!")
-        }, 1000);
+        }, 700);
     },
     end:(ev)=>{
         // find the direction: Left or Right; 

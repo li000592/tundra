@@ -12,7 +12,7 @@
     font-size: 18px;
 }
 h1{
-    font-size: 36px;
+    font-size: 30px;
 }
 #gender{
     width: 25px;
@@ -20,7 +20,12 @@ h1{
 }
 .trans-like{
     height: 88%;
+    font-size: 50px;
 }
 .trans-nope{
     height: 88%;
+    font-size: 50px;
+}
+h4 {
+    font-size: 15px;
 }
